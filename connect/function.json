@@ -1,0 +1,11 @@
+{
+    "disabled": false,
+    "bindings": [{
+        "type": "webPubSubTrigger",
+        "name": "request",
+        "direction": "in",
+        "hub": "notification",
+        "eventName": "connect",
+        "eventType": "system"
+    }]
+}
